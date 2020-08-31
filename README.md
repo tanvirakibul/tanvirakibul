@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Rakibul, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/321/321215.svg" width="13"/> <b>Dhaka, Bangladesh</b>
-<br/>I also do <img src="https://image.flaticon.com/icons/svg/838/838479.svg" width="13"/> Machine Learning for Fun!
+<br/>I also do <img src="https://image.flaticon.com/icons/svg/3123/3123572.svg" width="13"/> Machine Learning for Fun!
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
