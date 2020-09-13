@@ -1,8 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Rakibul, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/321/321215.svg" width="13"/> <b>Dhaka, Bangladesh</b>
+<p>Welcome to my page! </br> I'm Rakibul, Fullstack Developer from <img src="https://image.flaticon.com/icons/svg/321/321215.svg" width="13"/> <b>Dhaka, Bangladesh</b>
 <br/>I also do <img src="https://image.flaticon.com/icons/svg/3123/3123572.svg" width="13"/> Machine Learning for Fun!
+
+![](https://komarev.com/ghpvc/?username=tanvirakibul&color=green)
+
 <h3>Things I code with</h3>
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-F05032?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -27,8 +30,6 @@
   
 </p>
 
-
-![](https://komarev.com/ghpvc/?username=tanvirakibul&color=green)
 
 
 <h3>Where to find me</h3>
