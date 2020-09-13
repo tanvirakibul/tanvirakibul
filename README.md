@@ -28,8 +28,7 @@
 </p>
 
 
-<p> ![](https://komarev.com/ghpvc/?username=tanvirakibul&color=green)
- </p>
+![](https://komarev.com/ghpvc/?username=tanvirakibul&color=green)
 
 
 <h3>Where to find me</h3>
