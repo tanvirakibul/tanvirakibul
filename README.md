@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Rakibul, Fullstack Developer and Electronics Engineer from <img src="https://image.flaticon.com/icons/svg/321/321215.svg" width="13"/> <b>Dhaka, Bangladesh</b>
-<br/>I also do <img src="https://image.flaticon.com/icons/svg/3123/3123572.svg" width="13"/> Machine Learning for Fun!
+<br/>I also do <img src="https://image.flaticon.com/icons/svg/3123/3123572.svg" width="13"/> Machine Learning, Data Science, & Deep Learning.
 
 <h3>Things I code with</h3>
 <p>
